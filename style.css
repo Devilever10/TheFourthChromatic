@@ -26,7 +26,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   .tabs {
-    font-size: 30px!important;
+    font-size: 50px!important;
   }
 }
 
@@ -38,7 +38,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   .words {
-    font-size: 27px!important;
+    font-size: 44px!important;
   }
 }
 
@@ -50,7 +50,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   h1 {
-    font-size: 90px!important;
+    font-size: 170px!important;
   }
 }
 
@@ -62,7 +62,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   ol {
-    font-size: 30px!important;
+    font-size: 50px!important;
   }
 }
 
@@ -74,7 +74,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   ul {
-    font-size: 30px!important;
+    font-size: 50px!important;
   }
 }
 
@@ -86,7 +86,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   h5 {
-    font-size: 35px!important;
+    font-size: 60px!important;
   }
 }
 
@@ -98,7 +98,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   h6 {
-    font-size: 65px!important;
+    font-size: 120px!important;
   }
 }
 
@@ -110,7 +110,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   .contact {
-    font-size: 28px!important;
+    font-size: 46px!important;
   }
 }
 
