@@ -15,20 +15,105 @@ margin: 0;}
   padding-top: 8px;
   padding-bottom: 16px;
   border-bottom: 2px solid #fdfdfd;
-font-family:'Athelas';font-size: 15pt
+font-family:'Athelas';font-size: 17pt
 }
 
 @media only screen and (max-width: 768px) {
-  b {
-    font-size: 30px;
+  .tabs {
+    font-size: 25px!important;
   }
 }
 
 @media only screen and (max-width: 320px) {
-  b {
-    font-size: 15px;
+  .tabs {
+    font-size: 17px!important;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .words {
+    font-size: 22px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .words {
+    font-size: 17px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 85px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  h1 {
+    font-size: 20px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  ol {
+    font-size: 25px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  ol {
+    font-size: 17px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  ul {
+    font-size: 25x!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  ul {
+    font-size: 17px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  h5 {
+    font-size: 30px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  h5 {
+    font-size: 30px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  h6 {
+    font-size: 60px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  h6 {
+    font-size: 30px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+ .contact {
+    font-size: 23px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .contact {
+    font-size: 20px!important;
+  }
+}
+
 
 .tabs a {
   color: #fdfdfd;
@@ -407,7 +492,7 @@ background-position: bottom;}
   .contact{text-align: center;
     display: flex;
     justify-content: space-around;
-    flex-wrap:wrap;margin:20px;}
+    flex-wrap:wrap;margin:10px;padding-right:50px;}
 
 .menagerie {text-align:center;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
 
@@ -415,20 +500,20 @@ background-position: bottom;}
 
 .words {text-align:left;font-family:Serif;padding-top:15px;padding-left:400px;padding-right: 400px;font-size: 18px;display:inline-grid;word-break: normal;}
 
- h5 {font-family:Times;font-size: 25px;text-align:center;padding-top:50px;}
+ h5 {font-family:Times;font-size: 30px;text-align:center;padding-top:50px;}
 
 .lists {font-family: Serif;padding-top:20px;}
 
 ol {word-break:normal;margin-left: 2em;}
 
-ul {padding-top:15px;color:red;margin-right:2em;}
+ul {padding-top:15px;color:red;margin-right:2em;font-size:20px;}
 
-h6 {font-size:30px;padding-top:50px;text-align:center;font-family: Serif;}
+h6 {font-size:50px;padding-top:0px;text-align:center;font-family: Serif;}
 
 div3 {color:red;}
 
 div5 {color:white!important;text-decoration: underline!important;text-decoration-color:white!important;}
 
-.con {padding-left:200px;}
+.con {padding-left:50px;}
 
-.contact {text-align:right;display:flex;word-break: normal;line-height: 30px;padding-top:90px;}
+.contact {text-align:right;display:flex;word-break: normal;line-height: 30px;padding-top:90px;font-size:20px}
