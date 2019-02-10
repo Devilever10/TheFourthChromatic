@@ -18,6 +18,18 @@ margin: 0;}
 font-family:'Athelas';font-size: 15pt
 }
 
+@media only screen and (max-width: 768px) {
+  b {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  b {
+    font-size: 15px;
+  }
+}
+
 .tabs a {
   color: #fdfdfd;
   text-decoration: none;
@@ -414,6 +426,8 @@ ul {padding-top:15px;color:red;margin-right:2em;}
 h6 {font-size:30px;padding-top:50px;text-align:center;font-family: Serif;}
 
 div3 {color:red;}
+
+div10 {color:white;text-decoration: underline;text-decoration-color:0;}
 
 .con {padding-left:200px;}
 
