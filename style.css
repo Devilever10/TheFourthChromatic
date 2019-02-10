@@ -427,7 +427,7 @@ h6 {font-size:30px;padding-top:50px;text-align:center;font-family: Serif;}
 
 div3 {color:red;}
 
-div10 {color:white;text-decoration: underline;text-decoration-color:white;}
+div5 {color:white!important;text-decoration: underline!important;text-decoration-color:white!important;}
 
 .con {padding-left:200px;}
 
