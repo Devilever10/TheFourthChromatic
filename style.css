@@ -18,6 +18,8 @@ margin: 0;}
 font-family:'Athelas';font-size: 17pt
 }
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 @media only screen and (max-width: 768px) {
   .tabs {
     font-size: 25px!important;
@@ -26,7 +28,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   .tabs {
-    font-size: 50px!important;
+    font-size: 30px!important;
   }
 }
 
@@ -38,7 +40,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   .words {
-    font-size: 44px!important;
+    font-size: 27px!important;
   }
 }
 
@@ -50,7 +52,7 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 320px) {
   h1 {
-    font-size: 170px!important;
+    font-size: 160px!important;
   }
 }
 
