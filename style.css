@@ -20,19 +20,19 @@ font-family:'Athelas';font-size: 17pt
 
 @media only screen and (max-width: 768px) {
   .tabs {
-    font-size: 25px!important;
+    font-size: 4vw!important;
   }
 }
 
 @media only screen and (max-width: 320px) {
   .tabs {
-    font-size: 30px!important;
+    font-size: 4vw!important;
   }
 }
 
 @media only screen and (max-width: 768px) {
   .words {
-    font-size: 22px!important;
+    font-size: 4vw!important;
   }
 }
 
