@@ -254,7 +254,48 @@ padding-bottom: 64px}
 }
 #image-24 {
   background-image: url("Images/Image-24.jpg");
-
+}
+#image-25 {
+    background-image: url("Images/Image-25.jpg");
+}
+#image-26 {
+    background-image: url("Images/Image-26.jpg");
+}
+#image-27 {
+    background-image: url("Images/Image-27.jpg");
+}
+#image-28 {
+    background-image: url("Images/Image-28.jpg");
+}
+#image-29 {
+    background-image: url("Images/Image-29.jpg");
+}
+#image-30 {
+    background-image: url("Images/Image-30.png");
+}
+#image-31 {
+    background-image: url("Images/Image-31.jpg");
+}
+#image-32 {
+    background-image: url("Images/Image-32.jpg");
+}
+#image-33 {
+    background-image: url("Images/Image-33.jpg");
+}
+#image-34 {
+    background-image: url("Images/Image-34.jpg");
+}
+#image-35 {
+    background-image: url("Images/Image-35.jpg");
+}
+#image-36 {
+    background-image: url("Images/Image-36.jpg");
+}
+#image-37 {
+    background-image: url("Images/Image-37.jpg");
+}
+#image-38 {
+    background-image: url("Images/Image-38.jpg");
   background-position: bottom;}
 
 .draw:hover h1 {opacity:1.0;transform:none;}
@@ -264,6 +305,8 @@ top: 110px; color:#202020; opacity:0; transition: all .3s ease-in-out;
 transform: translateY(10px)}
 
 .films h3 {position:absolute; text-align: center;}
+
+.cgi h3 {position:absolute; text-align: center;}
 
   .dishes-container {
     padding-top: 65px;
@@ -481,9 +524,58 @@ background-position: bottom;}
 }
 #piece-22 {
       background-image: url("Images/piece-22.jpg");
+}
+#piece-23 {
+        background-image: url("Images/piece-23.jpg");
+}
+#piece-24 {
+          background-image: url("Images/piece-24.jpg");
+background-position: bottom;}
+
+.cgi-container {
+  padding-top: 64px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:wrap;
+}
+
+.models {
+  width: 500px;
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+  margin: 1px;
+}
+
+#cgi-1 {
+  background-image: url("Images/cg-1.jpg");
+}
+#cgi-2 {
+  background-image: url("Images/cg-2.jpg");
+}
+#cgi-3 {
+  background-image: url("Images/cg-3.jpg");
+}
+#cgi-4 {
+  background-image: url("Images/cg-4.jpg");
+}
+#cgi-5 {
+  background-image: url("Images/cg-5.jpg");
+}
+#cgi-6 {
+  background-image: url("Images/cg-6.jpg");
 
 background-position: bottom;}
 
+#cgi-7 {
+  background-image: url("Images/cg-7.jpg");
+
+background-position: bottom;}
+
+#cgi-8 {
+  background-image: url("Images/cg-8.jpg");
+
+background-position: bottom;}
 .films-container {align: center;
   display: flex;
   justify-content: space-around;
