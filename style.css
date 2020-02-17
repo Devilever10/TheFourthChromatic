@@ -576,15 +576,26 @@ background-position: bottom;}
   background-image: url("Images/cg-8.jpg");
 
 background-position: bottom;}
+
+#cgi-9{
+  background-image: url("Images/cg-9.jpg");
+
+background-position: bottom;}
+
+#cgi-10 {
+  background-image: url("Images/cg-10.jpg");
+
+background-position: bottom;}
+
 .films-container {align: center;
   display: flex;
   justify-content: space-around;
   flex-wrap:wrap;margin:30px;padding-right:400px;}
 
-  .contact{text-align: center;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap:wrap;margin:10px;padding-right:50px;}
+.contact{text-align: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:wrap;margin:10px;padding-right:50px;}
 
 .menagerie {text-align:center;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
 
