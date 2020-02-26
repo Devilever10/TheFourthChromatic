@@ -3,7 +3,7 @@
 body {font-family:'Athelas',sans-serif;
 background-color: black;
 color:#fdfdfd;
-margin: 0;}
+margin: 0 auto; }
 
 .tabs {
   position: fixed;
@@ -597,9 +597,9 @@ background-position: bottom;}
   justify-content: space-around;
   flex-wrap:wrap;margin:10px;padding-right:50px;}
 
-.menagerie {text-align:center;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
+.menagerie {margin: 0 auto;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
 
-.profile {text-align;center;padding-top:110px;padding-left:600px;display;inline-grid;}
+.profile {margin: 0 auto;padding-top:110px;padding-left:600px;display;inline-grid;}
 
 .words {text-align:left;font-family:Serif;padding-top:15px;padding-left:400px;padding-right: 400px;font-size: 18px;display:inline-grid;word-break: normal;}
 
