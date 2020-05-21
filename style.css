@@ -587,6 +587,16 @@ background-position: bottom;}
 
 background-position: bottom;}
 
+#cgi-11 {
+  background-image: url("Images/cg-11.jpg");
+
+background-position: bottom;}
+
+#cgi-12 {
+  background-image: url("Images/cg-12.jpg");
+
+background-position: bottom;}
+
 .films-container {align: center;
   display: flex;
   justify-content: space-around;
