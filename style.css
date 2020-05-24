@@ -646,11 +646,13 @@ ol {word-break:normal;margin-left: 2em;}
 
 ul {padding-top:15px;color:red;margin-right:2em;font-size:20px;}
 
-h6 {font-size:50px;padding-top:0px;text-align:center;font-family: Serif;}
+h6 {font-size:50px;padding-top:0px;text-align:center;font-family: Serif;color:white;}
 
-div3 {color:red;}
+div3 {color:red;text-decoration: underline;text-decoration-color: black;}
 
 div5 {color:white!important;text-decoration: underline!important;text-decoration-color:white!important;}
+
+
 
 .con {padding-left:50px;}
 
