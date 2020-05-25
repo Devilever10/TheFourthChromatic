@@ -166,7 +166,7 @@ color: #fdfdfd;}
   height: 700px;
   background-size: cover;
   background-position: center;
-  margin: 1px;
+  margin: 1px;cursor:pointer;
 }
 
 #drawing-detail h1{padding-top: 128px;
@@ -296,7 +296,13 @@ padding-bottom: 64px}
 }
 #image-38 {
     background-image: url("Images/Image-38.jpg");
-  background-position: bottom;}
+  background-position: bottom;
+}
+#image-39 {
+    background-image: url("Images/Image-39.jpg");
+    background-position: bottom;
+}
+
 
 .draw:hover h1 {opacity:1.0;transform:none;}
 
@@ -622,6 +628,21 @@ background-position: bottom;}
 
 background-position: bottom;}
 
+#cgi-15 {
+  background-image: url("Images/cg-15.jpg");
+
+background-position: bottom;}
+
+#cgi-16 {
+  background-image: url("Images/cg-16.jpg");
+
+background-position: bottom;}
+
+#cgi-17 {
+  background-image: url("Images/cg-17.jpg");
+
+background-position: bottom;}
+
 .films-container {align: center;
   display: flex;
   justify-content: space-around;
@@ -652,8 +673,8 @@ div3 {color:red;text-decoration: underline;text-decoration-color: black;}
 
 div5 {color:white!important;text-decoration: underline!important;text-decoration-color:white!important;}
 
-
-
 .con {padding-left:50px;}
 
 .contact {text-align:right;display:flex;word-break: normal;line-height: 30px;padding-top:90px;font-size:20px}
+
+.illustration-lightboxes
