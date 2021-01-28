@@ -687,6 +687,41 @@ background-position: bottom;}
   justify-content: space-around;
   flex-wrap:wrap;margin:10px;padding-right:50px;}
 
+  .cd-container {
+    padding-top: 65px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+  }
+
+  .char {
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+  }
+
+  #cd-1 {
+    background-image: url("Images/cd-1.jpg");
+  }
+  #cd-2 {
+    background-image: url("Images/cd-2.jpg");
+  }
+  #cd-3 {
+    background-image: url("Images/cd-3.jpg");
+  }
+  #cd-4 {
+    background-image: url("Images/cd-4.jpg");
+  }
+  #cd-5 {
+    background-image: url("Images/cd-5.jpg");
+  }
+  #cd-6 {
+    background-image: url("Images/cd-6.jpg");
+  }
+
+
 .menagerie {margin: 0 auto;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
 
 .profile {margin: 0 auto;padding-top:110px;padding-left:600px;display;inline-grid;}
