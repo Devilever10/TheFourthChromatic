@@ -720,7 +720,15 @@ background-position: bottom;}
   #cd-6 {
     background-image: url("Images/cd-6.jpg");
   }
-
+  #cd-7 {
+    background-image: url("Images/cd-7.jpg");
+  }
+  #cd-8 {
+    background-image: url("Images/cd-8.jpg");
+  }
+  #cd-9 {
+    background-image: url("Images/cd-9.jpg");
+  }
 
 
 .menagerie {margin: 0 auto;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
