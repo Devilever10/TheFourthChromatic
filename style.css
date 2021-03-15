@@ -183,126 +183,6 @@ text-decoration:underline;}
   margin:10px auto;
 padding-bottom: 64px}
 
-#image-1 {
-  background-image: url("Images/Image-1.jpg");
-}
-#image-2 {
-  background-image: url("Images/Image-2.jpg");
-}
-#image-3 {
-  background-image: url("Images/Image-3.jpg");
-}
-#image-4 {
-  background-image: url("Images/Image-4.jpg");
-}
-#image-5 {
-  background-image: url("Images/Image-5.jpg");
-}
-#image-6 {
-  background-image: url("Images/Image-6.png");
-}
-#image-7 {
-  background-image: url("Images/Image-7.jpg");
-}
-#image-8 {
-  background-image: url("Images/Image-8.jpg");
-}
-#image-9 {
-  background-image:url("Images/Image-9.jpg");
-}
-#image-10 {
-  background-image:url("Images/Image-10.jpg");
-}
-#image-11 {
-  background-image: url("Images/Image-11.png");
-}
-#image-12 {
-  background-image: url("Images/Image-12.jpg");
-}
-#image-13 {
-  background-image: url("Images/Image-13.jpg");
-}
-#image-14 {
-  background-image: url("Images/Image-14.jpg");
-}
-#image-15 {
-  background-image: url("Images/Image-15.jpg");
-}
-#image-16 {
-  background-image: url("Images/Image-16.jpg");
-}
-#image-17 {
-  background-image: url("Images/Image-17.jpg");
-}
-#image-18 {
-  background-image: url("Images/Image-18.jpg");
-}
-#image-19 {
-  background-image: url("Images/Image-19.jpg");
-}
-#image-20 {
-  background-image: url("Images/Image-20.jpg");
-}
-#image-21 {
-  background-image: url("Images/Image-21.jpg");
-}
-#image-22 {
-  background-image: url("Images/Image-22.jpg");
-}
-#image-23 {
-  background-image: url("Images/Image-23.jpg");
-}
-#image-24 {
-  background-image: url("Images/Image-24.jpg");
-}
-#image-25 {
-    background-image: url("Images/Image-25.jpg");
-}
-#image-26 {
-    background-image: url("Images/Image-26.jpg");
-}
-#image-27 {
-    background-image: url("Images/Image-27.jpg");
-}
-#image-28 {
-    background-image: url("Images/Image-28.jpg");
-}
-#image-29 {
-    background-image: url("Images/Image-29.jpg");
-}
-#image-30 {
-    background-image: url("Images/Image-30.png");
-}
-#image-31 {
-    background-image: url("Images/Image-31.jpg");
-}
-#image-32 {
-    background-image: url("Images/Image-32.jpg");
-}
-#image-33 {
-    background-image: url("Images/Image-33.jpg");
-}
-#image-34 {
-    background-image: url("Images/Image-34.jpg");
-}
-#image-35 {
-    background-image: url("Images/Image-35.jpg");
-}
-#image-36 {
-    background-image: url("Images/Image-36.jpg");
-}
-#image-37 {
-    background-image: url("Images/Image-37.jpg");
-}
-#image-38 {
-    background-image: url("Images/Image-38.jpg");
-  background-position: bottom;
-}
-#image-39 {
-    background-image: url("Images/Image-39.jpg");
-    background-position: bottom;
-}
-
 #gif-1 {
   background-image: url("Images/1.gif");
 }
@@ -726,10 +606,8 @@ background-position: bottom;}
   #cd-8 {
     background-image: url("Images/cd-8.jpg");
   }
-  #cd-9 {
-    background-image: url("Images/cd-9.jpg");
-  }
 
+.banner {text-align:center;padding-top:100px;}
 
 .menagerie {margin: 0 auto;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
 
